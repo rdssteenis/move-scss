@@ -1,6 +1,8 @@
 .vscode/
 node_modules/
 
+wp-content/
+
 .sass-cache/
 *.css.map
 *.sass.map
